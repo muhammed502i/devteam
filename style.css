@@ -5,28 +5,13 @@ body{
     font-family:arial,courier,helvetica
 }
 
-
-@media (max-width: 600px){
-
-    .container{
+.container{
     text-align: center;
     background-color: #fafafa;
-    margin: 1cm 8cm 1cm 8cm;
+    margin: -7cm;
     padding: 2cm
-    }
-
 }
 
-@media (min-width: 599px){
-
-    .container{
-    text-align: center;
-    background-color: #fafafa;
-    margin: 1cm 2cm 1cm 2cm;
-    padding: 2cm
-    }
-
-}
 
 .container .box-heading{
     width: 13cm;
